@@ -1,0 +1,6 @@
+@PocketCookTest_HostAddress = http://localhost:5168
+
+GET {{PocketCookTest_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
